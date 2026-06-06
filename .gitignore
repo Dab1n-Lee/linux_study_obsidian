@@ -1,0 +1,15 @@
+# ── Obsidian ────────────────────────────────────────────────
+# 그래프/플러그인/외형 설정(graph.json 등)은 공유를 위해 커밋합니다.
+# 아래의 "세션 레이아웃·캐시" 같은 휘발성 파일만 제외합니다.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# 플러그인이 만드는 기기별 데이터(필요 시 유지)
+.obsidian/plugins/*/data.json
+
+# ── OS 생성 파일 ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
